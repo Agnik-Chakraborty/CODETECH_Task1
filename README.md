@@ -2,7 +2,7 @@
 **Company Name:-** CODETECH IT SOLUTIONS
 **ID:-** CT4PP3239
 **Domain Name:-** Python Programming
-*Internship Span:-** June 25 to July 25
+**Duration:-** June 25 to July 25
 
 
 ##Overview Of the project
